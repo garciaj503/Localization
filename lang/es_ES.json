@@ -1,0 +1,17 @@
+{
+    "My_Profile": {
+        "My_Profile": "Mi perfil",
+        "Basic_Information": "Informacion Basica",
+        "Username": "Nombre de Usuario",
+        "First_Name": "Primer Nombre",
+        "Last_Name": "Apellido",
+        "Abbreviated_Name": "Nombre Abreviado",
+        "Pronouns": "Pronombres",
+        "Pronouns_Forum": "Mostrar Pronombres en el Foro de Discusion",
+        "Primary_Email": "Email Primario",
+        "Secondary_Email": "Email Secundario",
+        "Send_Email": "Enviar Email to Email Secundario",
+        "Access_Level": "Nivel de Acceso",
+        "Upload_profile_photo": "Subir Foto de Perfil"
+    }
+}
